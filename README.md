@@ -1,2 +1,2 @@
 # paw-test
-Minimal repo for E2E testing of paw bridge shortcuts.
+Test fixture repo for paw E2E testing. Not a production project.
